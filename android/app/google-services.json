@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449496734235",
+    "project_id": "interviewapp-fa446",
+    "storage_bucket": "interviewapp-fa446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449496734235:android:c01e0b3dc33d986c22f6be",
+        "android_client_info": {
+          "package_name": "com.example.techinzoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7AAsHagcAdpT5uirt3iS0xzUS-iihHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
